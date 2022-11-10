@@ -93,8 +93,8 @@ unsigned char dig[]={0x88,0xeb,0x4c,0x49,0x2b,0x19,0x18,0xcb,0x8,0x9,0xa,0x38,0x
 ![image](https://user-images.githubusercontent.com/94154683/201118909-a49e7b12-1446-416a-ade9-c9d8ab0ea417.png)
 
 ### Display On:
-![WhatsApp Image 2022-11-10 at 2 08 29 PM (1)](https://user-images.githubusercontent.com/94154683/201119557-3f1325d1-4cd1-43f5-84f9-37ea6c4d8908.jpeg)
 ![WhatsApp Image 2022-11-10 at 2 08 29 PM](https://user-images.githubusercontent.com/94154683/201119566-442c72f2-993a-4758-a2a8-5d8606c798e6.jpeg)
+![WhatsApp Image 2022-11-10 at 2 08 29 PM (1)](https://user-images.githubusercontent.com/94154683/201119557-3f1325d1-4cd1-43f5-84f9-37ea6c4d8908.jpeg)
 ![WhatsApp Image 2022-11-10 at 2 08 29 PM (2)](https://user-images.githubusercontent.com/94154683/201119578-d1f06c24-4983-4c37-872e-1cbbba1a4d96.jpeg)
 
 
