@@ -1,9 +1,12 @@
 # Interfacing-Seven-segment-display-with-lpc2148
 
 Name:	EASWAR.J
-Roll no: 212221230024
-Date of experiment: 10-11-2022
 
+
+Roll no: 212221230024
+
+
+Date of experiment: 10-11-2022
 
 
 Ex. No: 08
