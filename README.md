@@ -102,7 +102,8 @@ unsigned char dig[]={0x88,0xeb,0x4c,0x49,0x2b,0x19,0x18,0xcb,0x8,0x9,0xa,0x38,0x
 ![image](https://user-images.githubusercontent.com/94154683/201123968-008e4c6c-7e3d-4f3e-8960-9a671d79d3f4.png)
 ![image](https://user-images.githubusercontent.com/94154683/201124427-56af9914-4231-473b-a42d-6458624c9597.png)
 
-
+### Layout diagram:
+![image](https://user-images.githubusercontent.com/94154683/202348550-bdcea4a9-9541-4663-9379-356914d8ce89.png)
 
 
 ### Result :
